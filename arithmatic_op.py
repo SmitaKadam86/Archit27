@@ -5,5 +5,6 @@ c = a+b
 print(f"Addition is:", c)
 
 # code for multiplication
+# written by Akshay
 c=a*b
 print(c)
